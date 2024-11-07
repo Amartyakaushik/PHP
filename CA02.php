@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 // Define variables and initialize with empty values
 $name = $email = $address = $gender = "";
 $name_err = $email_err = "";
@@ -42,4 +42,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         echo "Error: " . $email_err . "<br>";
     }
 }
-?>
+?> -->
+
+
